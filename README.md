@@ -1,7 +1,7 @@
-### Olá! Me chamo Carmen Gozza e sou desenvolvedora Front-end Jr.
+### Olá! Me chamo Carmen Gozza e sou Jr Software Engineer .
 
-- 🔭 Aluna da Laboratoria Brasil (SAP006)
-- 🌱 Estudando React
+- 🔭 Trabalho na Vixtra
+- 🌱 React, Typescript, Nextjs, Mui, etc...
 - 😄 Pronomes: ela/dela
 
 <div align="center">
